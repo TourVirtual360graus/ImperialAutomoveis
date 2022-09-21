@@ -1,0 +1,95 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_255068D4_3C32_DC17_41C6_BFFA34B5AC91.source = https://api.whatsapp.com/send/?phone=5548999447900
+LinkBehaviour_2A6B0CF9_3C32_D411_41B2_AD72E66D0E55.source = https://api.whatsapp.com/send/?phone=5548999447900
+LinkBehaviour_291252B9_3C32_CC11_41C1_FAE08484C877.source = https://api.whatsapp.com/send/?phone=5548999447900
+LinkBehaviour_2553C8D2_3C32_DC13_4182_7ED86C562DDE.source = https://api.whatsapp.com/send/?phone=5548999447900
+LinkBehaviour_432DFE7B_4C02_92DD_41D4_5C5BAB1AD98A.source = https://imperialautomoveis.com/
+LinkBehaviour_425D3B72_4C02_B2EC_41D4_B70C46350C68.source = https://imperialautomoveis.com/
+LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://search.google.com/local/writereview?placeid=ChIJlS1eryk2J5URQZ4VZ6mfxKw
+LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJlS1eryk2J5URQZ4VZ6mfxKw
+LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/lojaimperialautomoveis
+LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/lojaimperialautomoveis
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/?q=place_id:ChIJlS1eryk2J5URQZ4VZ6mfxKw
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/?q=place_id:ChIJlS1eryk2J5URQZ4VZ6mfxKw
+LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/lojaimperialautomoveis/
+LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/lojaimperialautomoveis/
+
+## Media
+
+### Audio
+audio_42F3287A_4C02_9EDF_41BE_B3F7158E677F.path = null
+audio_439A9500_4C1E_962B_41D6_BC8670B7C4B4.path = null
+audio_433894C0_4C1E_B62B_41BE_D4AB5E302157.path = null
+audiores_406665C4_740E_962B_41CA_BDFFA87D6B26.mp3Url = media/audio_42F3287A_4C02_9EDF_41BE_B3F7158E677F_pt.mp3
+audiores_406665C4_740E_962B_41CA_BDFFA87D6B26.oggUrl = media/audio_42F3287A_4C02_9EDF_41BE_B3F7158E677F_pt.ogg
+audiores_40F2BA74_740E_92EB_41D0_6CCA6E15DD36.mp3Url = media/audio_433894C0_4C1E_B62B_41BE_D4AB5E302157_pt.mp3
+audiores_40F2BA74_740E_92EB_41D0_6CCA6E15DD36.oggUrl = media/audio_433894C0_4C1E_B62B_41BE_D4AB5E302157_pt.ogg
+audiores_409AB4B9_740E_F65D_41D1_81D1C608D218.mp3Url = media/audio_439A9500_4C1E_962B_41D6_BC8670B7C4B4_pt.mp3
+audiores_409AB4B9_740E_F65D_41D1_81D1C608D218.oggUrl = media/audio_439A9500_4C1E_962B_41D6_BC8670B7C4B4_pt.ogg
+
+### Title
+panorama_468550EB_4C0E_AFFD_41D2_4E88231D98BB.label = 1.2-DeNoiseAI-standard
+panorama_4766C854_4C0F_FE2B_41C3_CA09FCAB9FB3.label = 10-DeNoiseAI-standard
+panorama_4766110E_4C0F_EE34_41CD_313C94ADEA69.label = 11-DeNoiseAI-standard
+panorama_476639C3_4C0F_9E2D_41D6_2C819CD4D492.label = 12-DeNoiseAI-standard
+panorama_4766226F_4C0F_B2F5_41A1_7CC223AFA69F.label = 13-DeNoiseAI-standard
+panorama_4766FB65_4C0F_B2F5_4190_3E991181B0C5.label = 14 céu-DeNoiseAI-standard
+panorama_4766D056_4C0F_6ED7_41BE_E777D1242330.label = 2-DeNoiseAI-standard
+panorama_476479CC_4C0F_7E34_41D1_1C1D8D095CC9.label = 3-DeNoiseAI-standard
+panorama_4766B386_4C0F_9234_41D3_230177EFA8B6.label = 4-DeNoiseAI-standard
+panorama_47660CBE_4C0F_9657_41D3_C509A248A2DF.label = 5.1-DeNoiseAI-standard
+panorama_47665568_4C0F_B6FB_41B2_4FDE035235E1.label = 6-DeNoiseAI-standard
+panorama_47666DFD_4C0F_B1D5_41BD_509952980BCB.label = 7-DeNoiseAI-standard
+panorama_4766A67F_4C0F_92D5_41C0_BC0817F958CC.label = 8-DeNoiseAI-standard
+panorama_47667F6F_4C0F_92F5_41D6_8A5FBF15A6C0.label = 9-DeNoiseAI-standard
+
+## Skin
+
+### Button
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28.label = FALE CONOSCO
+Button_28E7887E_3CD2_DC12_41CC_136E13FACD28_mobile.label = FALE CONOSCO
+
+### Image
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.path = null
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.path = null
+Image_7E419219_7403_925D_41AB_E7237CB71057.path = null
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.path = null
+Image_429C7430_4C03_766B_41A2_3F34D997C386.path = null
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.path = null
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.path = null
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.path = null
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.path = null
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_mobile_pt.png
+Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC.url = skin/Image_2ECF5EBF_3C35_D411_41C1_21A1BA9F05FC_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_mobile_pt.png
+Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B.url = skin/Image_2ED1FC1E_3C33_D412_41A3_EE25C2C5EA0B_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_mobile_pt.png
+Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA.url = skin/Image_2ED69C5C_3C3E_D416_41C1_23B8A08B52AA_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_mobile_pt.png
+Image_2F466471_3C4E_F411_41CB_1E701FB4DB68.url = skin/Image_2F466471_3C4E_F411_41CB_1E701FB4DB68_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_mobile_pt.png
+Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555.url = skin/Image_2FDDAFF7_3C32_D412_41B8_B6AF737F6555_pt.png
+Image_427F1976_4C02_BED4_41B4_7D00FAFB9512.url = skin/Image_427F1976_4C02_BED4_41B4_7D00FAFB9512_pt.png
+Image_429C7430_4C03_766B_41A2_3F34D997C386.url = skin/Image_429C7430_4C03_766B_41A2_3F34D997C386_pt.png
+Image_431B85D3_4C07_762D_41D5_D99ABD1F917C.url = skin/Image_431B85D3_4C07_762D_41D5_D99ABD1F917C_pt.png
+Image_7E419219_7403_925D_41AB_E7237CB71057.url = skin/Image_7E419219_7403_925D_41AB_E7237CB71057_pt.png
+
+### Tooltip
+IconButton_22A550C6_3CD2_4C73_419F_8C9E05943413.toolTip = Fullscreen
+
+## Tour
+
+### Description
+tour.description = Faça um Tour Virtual em Nossa Unidade
+
+### Title
+tour.name = Imperial Altomóveis
