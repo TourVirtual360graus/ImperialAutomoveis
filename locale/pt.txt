@@ -13,8 +13,8 @@ LinkBehaviour_2AF0D0C7_3C3E_4C71_41AF_9759FEEB4B36.source = https://search.googl
 LinkBehaviour_255C38D0_3C32_DC6F_41BC_2E3F1CFC6A63.source = https://search.google.com/local/writereview?placeid=ChIJlS1eryk2J5URQZ4VZ6mfxKw
 LinkBehaviour_2BF5EEDE_3C32_5413_419B_040C0E04AD8C.source = https://www.facebook.com/lojaimperialautomoveis
 LinkBehaviour_255C78D2_3C32_DC13_41C1_3028AA8CF2ED.source = https://www.facebook.com/lojaimperialautomoveis
-LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/?q=place_id:ChIJlS1eryk2J5URQZ4VZ6mfxKw
-LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/?q=place_id:ChIJlS1eryk2J5URQZ4VZ6mfxKw
+LinkBehaviour_2A8D2610_3C32_57EE_41CC_A30765AF4E3C.source = https://www.google.com/maps/place/Imperial+Autom%C3%B3veis+-+Compra+de+Ve%C3%ADculos,+Venda+de+Carros,+Troca,+e+Financiamento+de+Ve%C3%ADculos/@-27.5936073,-48.6057407,17z/data=!4m5!3m4!1s0x95273629af5e2d95:0xacc49fa967159e41!8m2!3d-27.593607!4d-48.6057341
+LinkBehaviour_255CB8D0_3C32_DC6F_4198_EBAA79F46769.source = https://www.google.com/maps/place/Imperial+Autom%C3%B3veis+-+Compra+de+Ve%C3%ADculos,+Venda+de+Carros,+Troca,+e+Financiamento+de+Ve%C3%ADculos/@-27.5936073,-48.6057407,17z/data=!4m5!3m4!1s0x95273629af5e2d95:0xacc49fa967159e41!8m2!3d-27.593607!4d-48.6057341
 LinkBehaviour_255C48D1_3C32_DC11_41BC_71F37BDBD593.source = https://www.instagram.com/lojaimperialautomoveis/
 LinkBehaviour_2AE878FC_3C32_DC16_416B_C2352776B18E.source = https://www.instagram.com/lojaimperialautomoveis/
 
